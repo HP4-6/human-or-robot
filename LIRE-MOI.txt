@@ -1,7 +1,7 @@
 made by — Human or robot
 
-Extraire tout le ZIP puis ouvrir index.html. Les 296 images sont incluses pour jouer hors connexion.
-Extract the entire ZIP and open index.html. All 296 images are included for offline play.
+Extraire tout le ZIP puis ouvrir index.html. Les 350 images sont incluses pour jouer hors connexion.
+Extract the entire ZIP and open index.html. All 350 images are included for offline play.
 
 10 langues : français, anglais, chinois, hindi, espagnol, arabe, bengali, portugais, russe et indonésien. Sélecteur en haut à droite ; préférence enregistrée.
 10 languages: French, English, Chinese, Hindi, Spanish, Arabic, Bengali, Portuguese, Russian and Indonesian. Selector at the top right; preference saved.
@@ -9,8 +9,8 @@ Création humaine / Human creation : photo, dessin, peinture ou création numér
 Création IA / AI creation : image générée par un modèle, quel que soit le style.
 
 Jouer / Play lance la partie. H = humain/human. I = IA/AI. Entrée/Enter = continuer/continue. Échap/Escape = fermer/close.
-Une bonne réponse ajoute un point ; une erreur termine la série. Les 296 images sont remélangées à chaque cycle.
-Each correct answer adds one point; a mistake ends the streak. All 296 images are reshuffled after each cycle.
+Une bonne réponse ajoute un point ; une erreur termine la série. Les 350 images sont remélangées à chaque cycle.
+Each correct answer adds one point; a mistake ends the streak. All 350 images are reshuffled after each cycle.
 
 Menu : règles, record, sources et nouvelle partie. Les sources détaillées restent accessibles après la réponse.
 Menu: rules, best score, sources and new game. Detailed provenance is available after each answer.
@@ -21,3 +21,4 @@ Two-choice scores are separate from the previous three-choice game. Progress is 
 
 Le record est affiché sous le bouton de démarrage. L’ajout de nouvelles images conserve la partie et les statistiques déjà enregistrées.
 Your best score appears below the start button. New images preserve your saved game and statistics.
+
