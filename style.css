@@ -3,3 +3,8 @@
 .logo,.eyebrow,h1{direction:ltr}select{max-width:165px;width:auto}.answer{overflow-wrap:anywhere;line-height:1.35}.text-button,.menu-links button,.menu-links a{text-align:start}html[dir="rtl"] dialog .close{right:auto;left:14px}html[dir="rtl"] dialog h2{margin-right:0;margin-left:28px}html[dir="rtl"] #score{margin-left:0;margin-right:6px}html[dir="rtl"] .image-frame{direction:ltr}html[dir="rtl"] .primary{letter-spacing:0}@media(max-width:600px){select{max-width:130px}.answer{font-size:15px;min-height:64px}.header-actions{gap:4px}#result .primary{min-width:110px}}
 
 .welcome-record{display:flex;align-items:center;gap:12px;margin-top:24px;color:var(--muted);font-size:13px}.welcome-record strong{color:var(--green);font-size:24px;font-weight:650;font-variant-numeric:tabular-nums}
+
+
+/* Human or Robot wordmark, sized for the existing compact header. */
+.logo{font-size:19px;line-height:1.02;letter-spacing:-.65px;flex-shrink:0;white-space:nowrap;display:inline-block}#presents{display:none}
+@media(max-width:600px){.logo{font-size:18px}}

@@ -46,7 +46,7 @@ window.GAME_TEXTS = {
     "newScores": "Les records de ce jeu à deux choix sont séparés de ceux de l’ancienne version.",
     "language": "Langue",
     "back": "Retour au jeu",
-    "presents": "made by présente"
+    "presents": ""
   },
   "en": {
     "intro": "One image. Two possibilities.",
@@ -95,7 +95,7 @@ window.GAME_TEXTS = {
     "newScores": "Scores for this two-choice game are kept separate from the previous version.",
     "language": "Language",
     "back": "Back to game",
-    "presents": "made by presents"
+    "presents": ""
   },
   "es": {
     "intro": "Una imagen. Dos posibilidades.",
@@ -144,7 +144,7 @@ window.GAME_TEXTS = {
     "newScores": "Los récords de este juego de dos opciones se guardan aparte de la versión anterior.",
     "language": "Idioma",
     "back": "Volver al juego",
-    "presents": "made by presenta"
+    "presents": ""
   },
   "pt": {
     "intro": "Uma imagem. Duas possibilidades.",
@@ -193,7 +193,7 @@ window.GAME_TEXTS = {
     "newScores": "Os recordes deste jogo de duas opções ficam separados dos da versão anterior.",
     "language": "Idioma",
     "back": "Voltar ao jogo",
-    "presents": "made by apresenta"
+    "presents": ""
   },
   "ru": {
     "intro": "Одно изображение. Два варианта.",
@@ -242,7 +242,7 @@ window.GAME_TEXTS = {
     "newScores": "Рекорды игры с двумя вариантами хранятся отдельно от предыдущей версии.",
     "language": "Язык",
     "back": "Вернуться к игре",
-    "presents": "made by представляет"
+    "presents": ""
   },
   "zh": {
     "intro": "一张图片，两种可能。",
@@ -291,7 +291,7 @@ window.GAME_TEXTS = {
     "newScores": "本双选游戏的纪录与旧版分开保存。",
     "language": "语言",
     "back": "返回游戏",
-    "presents": "made by 出品"
+    "presents": ""
   },
   "hi": {
     "intro": "एक तस्वीर। दो संभावनाएँ।",
@@ -340,7 +340,7 @@ window.GAME_TEXTS = {
     "newScores": "इस दो-विकल्प वाले खेल के रिकॉर्ड पुराने संस्करण से अलग रखे जाते हैं।",
     "language": "भाषा",
     "back": "खेल पर वापस जाएँ",
-    "presents": "made by प्रस्तुत करता है"
+    "presents": ""
   },
   "bn": {
     "intro": "একটি ছবি। দুটি সম্ভাবনা।",
@@ -389,7 +389,7 @@ window.GAME_TEXTS = {
     "newScores": "এই দুই-বিকল্পের খেলার রেকর্ড আগের সংস্করণ থেকে আলাদা রাখা হয়।",
     "language": "ভাষা",
     "back": "খেলায় ফিরুন",
-    "presents": "made by উপস্থাপন করছে"
+    "presents": ""
   },
   "ar": {
     "intro": "صورة واحدة. احتمالان.",
@@ -438,7 +438,7 @@ window.GAME_TEXTS = {
     "newScores": "تُحفظ أرقام هذه اللعبة ذات الخيارين بشكل منفصل عن النسخة السابقة.",
     "language": "اللغة",
     "back": "العودة إلى اللعبة",
-    "presents": "made by يقدم"
+    "presents": ""
   },
   "id": {
     "intro": "Satu gambar. Dua kemungkinan.",
@@ -487,7 +487,8 @@ window.GAME_TEXTS = {
     "newScores": "Rekor permainan dua pilihan ini disimpan terpisah dari versi sebelumnya.",
     "language": "Bahasa",
     "back": "Kembali ke permainan",
-    "presents": "made by mempersembahkan"
+    "presents": ""
   }
 };
 window.GAME_LANGUAGES = {"fr":"Français","en":"English","zh":"中文","hi":"हिन्दी","es":"Español","ar":"العربية","bn":"বাংলা","pt":"Português","ru":"Русский","id":"Bahasa Indonesia"};
+

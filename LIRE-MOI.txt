@@ -1,4 +1,4 @@
-made by — Human or robot
+Human or robot
 
 Extraire tout le ZIP puis ouvrir index.html. Les 350 images sont incluses pour jouer hors connexion.
 Extract the entire ZIP and open index.html. All 350 images are included for offline play.
@@ -21,4 +21,5 @@ Two-choice scores are separate from the previous three-choice game. Progress is 
 
 Le record est affiché sous le bouton de démarrage. L’ajout de nouvelles images conserve la partie et les statistiques déjà enregistrées.
 Your best score appears below the start button. New images preserve your saved game and statistics.
+
 
